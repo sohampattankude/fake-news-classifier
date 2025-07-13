@@ -1,0 +1,5 @@
+streamlit
+scikit-learn
+nltk
+google-generativeai
+python-dotenv
